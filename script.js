@@ -1,4 +1,4 @@
-alert("Every content in this web page are only a test, for this I'm NOT RESPONSABLE FOR EVERY COPYRIGHT VOLATION!!!!")
+alert("All content on this web page is only a test, for this, I'm NOT RESPONSIBLE FOR EVERY COPYRIGHT VIOLATION!!!!")
 
 const detailButton = document.getElementById('detail-button')
 
