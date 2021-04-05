@@ -1,3 +1,5 @@
+All content on this web page is only a test, for this, I'm NOT RESPONSIBLE FOR EVERY COPYRIGHT VIOLATION!!!!
+
 const nextImageButton = document.getElementById('next-image')
 const previousImageButton = document.getElementById('previous-image')
 
